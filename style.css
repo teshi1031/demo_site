@@ -4,7 +4,7 @@ body {
 
 /* header部分のcss */
 .header{
-  background-image: url('.processingly-2pUP1Ts1bmo-unsplash.jpg');
+  background-image: url('processingly-2pUP1Ts1bmo-unsplash.jpg');
   background-size: cover;
   background-position: center center;
   height: 550px;
@@ -214,7 +214,7 @@ h1.title{
 
 .fifth {
   position: relative;
-  background-image: url('.kenny-timmer-FAKisvTCvYs-unsplash.jpg');
+  background-image: url('kenny-timmer-FAKisvTCvYs-unsplash.jpg');
   background-size: cover;
   background-position: center center ;
   height: 450px;
@@ -420,7 +420,7 @@ option {
 
 /* eighthのcss */
 .eighth{
-  background-image: url('.joshua-earle-gNYxek2hNx8-unsplash.jpg');
+  background-image: url('joshua-earle-gNYxek2hNx8-unsplash.jpg');
   background-size: cover;
   background-position: center ;
   height: 500px; 
